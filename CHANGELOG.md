@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/zacharysnewman/leveling/compare/v1.0.0...v1.0.1) (2024-06-28)
+
+
+### Bug Fixes
+
+* **.meta:** updated meta file guids which were conflicting ([5013ca5](https://github.com/zacharysnewman/leveling/commit/5013ca520f73af3accf5583f5fec462eee950179))
+
 # 1.0.0 (2024-06-20)
 
 
